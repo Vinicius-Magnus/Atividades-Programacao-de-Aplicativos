@@ -1,4 +1,4 @@
-public class par_e_impar {
+public class atividade4 {
     public static void main(String[] args) {
         int soma = 0, multiplicacao = 0;
         for (int i = 1; i <= 30; i++) {
