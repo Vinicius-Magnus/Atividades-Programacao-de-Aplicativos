@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class descobrir_par_impar_e_primo {
+public class atividade6 {
     public static void main(String[] args) {
         int num = 0;
         Scanner entrada = new Scanner(System.in);
