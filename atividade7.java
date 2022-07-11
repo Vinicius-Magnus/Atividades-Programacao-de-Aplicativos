@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade8 {
+public class atividade7 {
     public static void main(String[] args) {
         String medida = "";
         char medida1;
