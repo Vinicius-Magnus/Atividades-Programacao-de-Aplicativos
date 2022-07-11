@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade6 {
+public class atividade7 {
     public static void main(String[] args) {
         double valorhora = 10.25, salario;
         int horastrab;
