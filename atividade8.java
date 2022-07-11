@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class atividade9{
+public class atividade8{
     public static void main(String[] args) {
         int idade;
         Scanner entrada = new Scanner(System.in);
